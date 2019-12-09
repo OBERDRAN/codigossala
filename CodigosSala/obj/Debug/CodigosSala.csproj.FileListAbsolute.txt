@@ -1,7 +1,0 @@
-C:\Users\Oberdran\Desktop\git\CodigosSala\bin\Debug\CodigosSala.exe.config
-C:\Users\Oberdran\Desktop\git\CodigosSala\bin\Debug\CodigosSala.exe
-C:\Users\Oberdran\Desktop\git\CodigosSala\bin\Debug\CodigosSala.pdb
-C:\Users\Oberdran\Desktop\git\CodigosSala\obj\Debug\CodigosSala.csprojAssemblyReference.cache
-C:\Users\Oberdran\Desktop\git\CodigosSala\obj\Debug\CodigosSala.csproj.CoreCompileInputs.cache
-C:\Users\Oberdran\Desktop\git\CodigosSala\obj\Debug\CodigosSala.exe
-C:\Users\Oberdran\Desktop\git\CodigosSala\obj\Debug\CodigosSala.pdb

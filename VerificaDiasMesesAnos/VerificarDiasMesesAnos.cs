@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CodigosSala
 {
-    public class Program
+    public class VerificarDiasMesesAnos
     {
         public static void Main(string[] args)
         {
