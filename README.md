@@ -1,7 +1,9 @@
-# codigossala
+Codigossala
 
-#Codigos feitos na sala de aula, durante o período de 2019.2
+Codigos feitos na sala de aula, durante o período de 2019.2
 
-#https://www.instagram.com/oberdransf/
+http://technologiaeinformacao.blogspot.com/
 
-#https://twitter.com/oberdran
+https://www.instagram.com/oberdransf/
+
+https://twitter.com/oberdran
