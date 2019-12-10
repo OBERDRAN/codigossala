@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace SexoPesoAltura
 {
-    public class SexoPesoAltura
+    public class PesoAltura
     {
         static void Main(string[] args)
         {
-			//comentario
             double pid, altura;
-        
+
             string sexo;
 
             Console.Write("Altura: ");

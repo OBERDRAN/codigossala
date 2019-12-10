@@ -4,13 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{226831A1-F111-4819-AA60-0A7062DCD7F9}</ProjectGuid>
+    <ProjectGuid>{31975ADF-A490-478A-94CC-856F0DD435E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SexoPesoAltura</RootNamespace>
     <AssemblyName>SexoPesoAltura</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
